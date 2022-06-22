@@ -6,7 +6,7 @@ O Candy Store é um site genérico desenvolvido para treinar as habilidades de c
   
 ## Link da aplicação
 
-  https://cezarmontenegro.github.io/MyTunes
+  https://cezarmontenegro.github.io/candy-store
 
 ## Habilidades desenvolvidas no projeto
 
