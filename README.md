@@ -2,7 +2,7 @@
 
 ## Descrição
 
-O Candy Store é um site genérico desenvolvido para treinar as habilidades de css avançado nele é possivel navegar entre os links e também é responsivo para alguns tamanhos de tela.
+O Candy Store é um site genérico desenvolvido para treinar as habilidades de css avançado nele é possivel navegar no HTML através de um side bar e também é responsivo para determinados tamanhos de tela.
   
 ## Link da aplicação
 
