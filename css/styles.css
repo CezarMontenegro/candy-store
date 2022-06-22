@@ -101,7 +101,7 @@ section {
   margin-top: 70px;
 }
 
-#sessao-bemvindo::after, #sessao-bemvindo::after {
+#sessao-bemvindo::after, #sessao-sobre::after {
   content: '';
   display: block;
   clear: both;
@@ -158,6 +158,92 @@ section {
   position: absolute;
   left: 25px;
   width: calc(100% - 400px);
+}
+
+/* galeria */
+
+.banner-galeria {
+  background-position: center;
+  background-size: cover;
+  display: inline-block;
+  height: 200px;
+}
+
+#sessao-doces1, #sessao-doces2, #sessao-doces3 {
+  padding-right: 50px;
+  margin-bottom: 50px; 
+}
+
+.doces1-imgs {
+  width: 18.8%;
+  margin-left: .5%;
+  margin-right: .5%;
+}
+
+#img1 {
+  background-image: url('../images/galeria1.jpg');
+  margin-left: 0px;
+}
+
+#img2 {
+  background-image: url('../images/galeria2.jpg');
+}
+
+#img3 {
+  background-image: url('../images/galeria3.jpg');
+}
+
+#img4 {
+  background-image: url('../images/galeria4.jpg');
+} 
+
+#img5 {
+  background-image: url('../images/galeria5.jpg');
+  margin-right: 0px;
+}
+
+.doces2-imgs {
+  width: 32.3%;
+  margin-left: .5%;
+  margin-right: .5%;
+}
+
+#img6 {
+  background-image: url('../images/galeria6.jpg');
+  margin-left: 0px;
+}
+
+#img7 {
+  background-image: url('../images/galeria7.jpg');
+} 
+
+#img8 {
+  background-image: url('../images/galeria8.jpg');
+  margin-right: 0px;
+}
+
+.doces3-imgs {
+  width: 23.9%;
+  margin-left: .5%;
+  margin-right: .5%;
+}
+
+#img9 {
+  background-image: url('../images/galeria9.jpg');
+  margin-left: 0px;
+}
+
+#img10 {
+  background-image: url('../images/galeria10.jpg');
+}
+
+#img11 {
+  background-image: url('../images/galeria11.jpg');
+} 
+
+#img12 {
+  background-image: url('../images/galeria12.jpg');
+  margin-right: 0;
 }
 
 
